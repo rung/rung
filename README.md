@@ -1,5 +1,5 @@
 # Hiroki Suezawa
-- Job Title: Security Engineer
+- Security Engineer
 - Bio: https://www.suezawa.net/
 
 ## Contacts
