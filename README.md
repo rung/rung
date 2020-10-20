@@ -8,8 +8,11 @@
 - Twitter: [@rung](https://mobile.twitter.com/rung)
 - Linkedin: [suezawa](https://www.linkedin.com/in/suezawa/)
 
-## Presentation/Documentaion
+## Presentation, Documentaion
 ### 2020
+- 10/19 [Gophers Office Hours #13 〜セキュリティ回〜](https://mercari.connpass.com/event/191408/)
+  - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=apJySz-EBV8)
+  - [Additional Comment(追加コメント)](https://twitter.com/rung/status/1318131791278993414)
 - 10/17 The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
   - [Documentatin (日本語/Japanese)](https://github.com/rung/messaging-security-2020)
 - 4/23 Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
