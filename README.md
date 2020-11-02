@@ -10,6 +10,9 @@
 
 ## Presentation, Documentaion
 ### 2020
+- 11/2 [Gophers Office Hours #14 Goとセキュリティ vol.2](https://mercari.connpass.com/event/192864/)
+  - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=Ca96Vsfa69A)
+  - [Additional Comment(追加コメント)](https://twitter.com/rung/status/1323160375353749505?s=20)
 - 10/19 [Gophers Office Hours #13 〜セキュリティ回〜](https://mercari.connpass.com/event/191408/)
   - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=apJySz-EBV8)
   - [Additional Comment(追加コメント)](https://twitter.com/rung/status/1318131791278993414)
