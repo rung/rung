@@ -1,4 +1,4 @@
-<img src="./profile.jpg" align="right" width="150" />
+<img src="./profile.jpg" width="150" />
 
 # 👋 Hiroki Suezawa (@rung)
 
