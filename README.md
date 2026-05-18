@@ -1,9 +1,12 @@
-# Hiroki Suezawa
-- Security Engineer
-- Bio: https://www.suezawa.net/
+<img src="./profile.jpg" align="right" width="150" />
 
-## Contacts
-- Email: suezawa@gmail.com
-- GitLab: [@rung](https://gitlab.com/rung)
-- Twitter: [@rung](https://mobile.twitter.com/rung)
-- Linkedin: [suezawa](https://www.linkedin.com/in/suezawa/)
+# 👋 Hiroki Suezawa (@rung)
+
+- 💼 Staff Security Engineer at GitLab
+- 🌐 Website: https://www.suezawa.net/
+
+## 📫 Contacts
+- 📧 Email: suezawa@gmail.com
+- 🦊 GitLab: [@rung](https://gitlab.com/rung) (personal) / [@hsuezawa](https://gitlab.com/hsuezawa) (work)
+- 🐦 Twitter: [@rung](https://mobile.twitter.com/rung)
+- 🔗 LinkedIn: [suezawa](https://www.linkedin.com/in/suezawa/)
